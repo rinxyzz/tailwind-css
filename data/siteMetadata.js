@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/rinxyzz',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: 'https://raw.githubusercontent.com/rinxyzz/tailwind-css/main/public/static/images/twitter-card.png',
   email: 'itzmerinz.dc@gmail.com',
   github: 'https://github.com/rinxyzz',
   twitter: 'https://twitter.com/Twitter',
