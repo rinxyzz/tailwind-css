@@ -1,9 +1,9 @@
 ---
-title: Introducing Multi-part Posts with Nested Routing
-date: '2021-05-02'
-tags: ['multi-author', 'next-js', 'feature']
+title: Introducing Activity Cord
+date: '2023-10-04'
+tags: ['multi-author', 'discord', 'feature']
 draft: false
-summary: 'The blog template supports posts in nested sub-folders. This can be used to group posts of similar content e.g. a multi-part course. This post is itself an example of a nested route!'
+summary: 'A Code That Allows You To Get The Playing, Listening, and Streaming Discord Statuses 24/7!'
 ---
 
 ## ActivityCord
