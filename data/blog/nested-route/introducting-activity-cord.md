@@ -2,21 +2,12 @@
 title: Introducing Multi-part Posts with Nested Routing
 date: '2021-05-02'
 tags: ['multi-author', 'next-js', 'feature']
-draft: true
+draft: false
 summary: 'The blog template supports posts in nested sub-folders. This can be used to group posts of similar content e.g. a multi-part course. This post is itself an example of a nested route!'
 ---
 
-<p align="center">
-ActivityCord
-</p>
-<p align="center">
-A Code That Allows You To Get The Playing, Listening, and Streaming Discord Statuses 24/7!
-</p>
-<p align="center">
-<img alt="GitHub Workflow Status (with branch)" src="https://img.shields.io/github/actions/workflow/status/rinxyzz/ActivityCord/codeql.yml?branch=main&style=for-the-badge">
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/rinxyzz/ActivityCord?style=for-the-badge">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/rinxyzz/ActivityCord?style=for-the-badge">
-</p>
+## ActivityCord
+### A Code That Allows You To Get The Playing, Listening, and Streaming Discord Statuses 24/7!
 
 > :warning: **Please Read Before Using it:** Once again, using Selfbot violates [Discord Tos](https://discord.com/terms), your account is prone to being banned by Discord,If that happens we are not responsible as a developer, because it's at your own risk.
 
@@ -43,11 +34,5 @@ A Code That Allows You To Get The Playing, Listening, and Streaming Discord Stat
 > ⭐ **Feel free to Star the Repository if this helped you! ;)**
 
 > [ActivityCord](https://github.com/rinxyzz/ActivityCord) By [Rin4Everz](https://rin4ever.xyz) is licensed under
-> <img alt="GitHub" src="https://img.shields.io/github/license/rinxyzz/ActivityCord">
 
-> <font color="red">Build Using TildeC</font> <img src="https://raw.githubusercontent.com/rinxyzz/ActivityCord/main/icons/tildecv2.png" width="20" height="20" align="center">
-
-## Contributors
-<a href="https://github.com/rinxyzz/ActivityCord/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rinxyzz/ActivityCord" />
-</a>
+> <font color="red">Build Using TildeC</font>
